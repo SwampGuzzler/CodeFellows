@@ -14,11 +14,11 @@ h2 {
 form {
     font-size: 12px;
     font-family: Verdana, Arial;
-    display: inline-block;
+    display: block;
 }
 #messages {
     font-size: 20px;
     color: blue;
 	font-family: Serif;
-    display: inline-block;
+    display: block;
 }
